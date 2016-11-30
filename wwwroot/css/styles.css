@@ -1,0 +1,16 @@
+﻿body {
+    background-color:azure;
+    color:darkcyan;
+}
+.navbar {
+    background:black;
+}
+.setRight{
+    float:right;
+}
+.largeText{
+    font-size: 30px;
+}
+.padding {
+    padding:10px;
+}
